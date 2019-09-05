@@ -14,7 +14,7 @@ export default function About(props) {
 
                 <div className="nine columns main-col">
 
-                    <h2>About Me</h2>
+                    <h1>About Me</h1>
 
                     <p className="lead add-bottom">
                         {props.data.someWords}

@@ -1,6 +1,11 @@
 import React from 'react'
+import ImageGallery from 'react-image-gallery'
+
 
 export default function Portfolio(props) {
+
+    var i = 0
+
     return (
         <section id="portfolio">
 
@@ -41,7 +46,12 @@ export default function Portfolio(props) {
                         return (
                             <div id={"modal-"+i} className="popup-modal mfp-hide">
 
-                                <img className="scale-with-grid" src={p.img} alt="" />
+                                <ImageGallery
+                                    items={p.images}
+                                    showFullscreenButton={false}
+                                    showPlayButton={false}
+                                    showNav={false}
+                                />
 
                                 <div className="description-box">
                                     <h4>{p.name}</h4>

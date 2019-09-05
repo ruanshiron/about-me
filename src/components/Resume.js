@@ -80,13 +80,13 @@ export default function Resume(props) {
 
                         <div className="bars">
 
-                        <ul className="skills">
-                            <li><span className="bar-expand photoshop"></span><em>Photoshop</em></li>
-                        <li><span className="bar-expand illustrator"></span><em>Illustrator</em></li>
-                                <li><span className="bar-expand wordpress"></span><em>Wordpress</em></li>
-                                <li><span className="bar-expand css"></span><em>CSS</em></li>
-                                <li><span className="bar-expand html5"></span><em>HTML5</em></li>
-                        <li><span className="bar-expand jquery"></span><em>jQuery</em></li>
+                            <ul className="skills">
+                                <li><span className="bar-expand c"></span><em>C</em></li>
+                                <li><span className="bar-expand javascript"></span><em>Javascript</em></li>
+                                <li><span className="bar-expand nodejs"></span><em>Nodejs</em></li>
+                                <li><span className="bar-expand reactjs"></span><em>Reactjs</em></li>
+                                <li><span className="bar-expand swift"></span><em>Swift</em></li>
+                                <li><span className="bar-expand japanese"></span><em>Japanese</em></li>
                             </ul>
 
                         </div>
