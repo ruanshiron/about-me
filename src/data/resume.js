@@ -68,6 +68,10 @@ export const resume = {
                       original: 'https://i.imgur.com/9ASasJ6.png',
                       thumbnail: 'https://i.imgur.com/9ASasJ6.png'
                     },
+                    {
+                      original: 'https://i.imgur.com/eYcwQdb.png',
+                      thumbnail: 'https://i.imgur.com/eYcwQdb.png'
+                    },
                 ],
                 theme: "Recipes, Cooking, Social",
                 github: "https://github.com/ruanshiron/csdl"
