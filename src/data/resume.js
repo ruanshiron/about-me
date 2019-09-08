@@ -28,7 +28,7 @@ export const resume = {
                 when: "September 2009 - June 2013",
                 where: "Tam Hiep Secondary School",
                 who: "Student",
-                details: "I was a dreamy boy. Learning Pascal at school, that's first times my programming and keep a dream that someday I will create my own epics game."
+                details: "I was a dreamy boy. Learning Pascal at school, that's my first times programming and keep a dream that someday I will create my own epic game."
             },
         ],
         intern: [
@@ -36,7 +36,7 @@ export const resume = {
                 when: "July 2018 - November 2018",
                 where: "Ominext JSC",
                 who: "iOS Intern",
-                details: "For first 2 months, I'm joined a team with another 5 member. We builded Emotion Bot Project. It was a small project made to check employee status. It like a questionnaire app with just one question - \"How do you feel today\". \n For next 3 months, because the summer vacation ended, I switched to parttime and to another team. because the summer vacation ended, I switched to part time and to another team. My new mission was building UI for iOS app."
+                details: "For first 2 months, I'm joined a team with another 5 member. We builded Emotion Bot Project. It was a small project made to check employee status. It like a questionnaire app with just one question - \"How do you feel today\". \n For next 3 months, because the summer vacation ended, I switched to parttime and to another team. My new mission was building UI for iOS app."
             }
         ]
     },
@@ -45,7 +45,7 @@ export const resume = {
             {
                 name: "CSDL",
                 desciption: "ReactJS, PostgreSQL, Node/express.js",
-                detail: "A project for Databass subject by teamwork(4 people)",
+                detail: "Web app where people can share their own Cooking Recipes .I tried to make it look like a social app but it was really hard to implement.",
                 img: "https://i.imgur.com/TgM3Ab5.png",
                 images: [
                     {
@@ -61,13 +61,13 @@ export const resume = {
                       thumbnail: 'https://i.imgur.com/d5M9nuE.png'
                     },
                 ],
-                theme: "Recipes, Cooking",
+                theme: "Recipes, Cooking, Social",
                 github: "https://github.com/ruanshiron/csdl"
             },
             {
                 name: "Sorting Demonstration",
-                desciption: "Java, JFoenix",
-                detail: "A project",
+                desciption: "Java, JFoenix, Javafx",
+                detail: "It is simply a sorting demonstration application.",
                 img: "https://i.imgur.com/Qkyr4oX.png",
                 images: [
                     {
@@ -85,7 +85,7 @@ export const resume = {
             {
                 name: "Oumiji",
                 desciption: "Swift, Affdex, Kairos",
-                detail: "Intership",
+                detail: "Internship - It worked like a questionnaire app but just 1 question \"How do you feel, today?\". Using Affdex SDK for Emotion Recognition. Using Kairos API for Face Recognition",
                 img: "images/oumiji.jpg",
                 images: [
                     {
